@@ -15,6 +15,7 @@
 		6F9686A72493DA730025D34C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F9686A52493DA730025D34C /* Main.storyboard */; };
 		6F9686A92493DA730025D34C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F9686A82493DA730025D34C /* Assets.xcassets */; };
 		6F9686AC2493DA730025D34C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F9686AA2493DA730025D34C /* LaunchScreen.storyboard */; };
+		6F9686B42493DC540025D34C /* Hero.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6F9686B32493DC540025D34C /* Hero.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		6F9686A82493DA730025D34C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6F9686AB2493DA730025D34C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6F9686AD2493DA730025D34C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F9686B32493DC540025D34C /* Hero.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Hero.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				6F96869B2493DA730025D34C /* AppDelegate.swift */,
 				6F96869D2493DA730025D34C /* GameScene.sks */,
+				6F9686B32493DC540025D34C /* Hero.sks */,
 				6F96869F2493DA730025D34C /* Actions.sks */,
 				6F9686A12493DA730025D34C /* GameScene.swift */,
 				6F9686A32493DA730025D34C /* GameViewController.swift */,
@@ -134,6 +137,7 @@
 				6F9686A72493DA730025D34C /* Main.storyboard in Resources */,
 				6F96869E2493DA730025D34C /* GameScene.sks in Resources */,
 				6F9686A92493DA730025D34C /* Assets.xcassets in Resources */,
+				6F9686B42493DC540025D34C /* Hero.sks in Resources */,
 				6F9686AC2493DA730025D34C /* LaunchScreen.storyboard in Resources */,
 				6F9686A02493DA730025D34C /* Actions.sks in Resources */,
 			);
